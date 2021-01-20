@@ -1,0 +1,23 @@
+/**
+ * Ficha prática 2 - Exercicio 3.1
+ * @author Pedro Machado "pedroma2000"
+ */
+body {
+    background-color:lightgreen;
+}
+
+.button {
+    background-color: green;
+    border: none;
+    color: white;
+}
+
+@media only screen and (max-width: 992px) {
+    body {
+    background-color:lightcyan;
+    }
+
+    .button {
+        background-color: blue;
+    }
+}

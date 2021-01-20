@@ -1,0 +1,31 @@
+/**
+ * Ficha prática 3 - Exercicio 3
+ * @author Pedro Machado "pedroma2000"
+ */
+body {
+    background-color: #EEEEEE;
+}
+
+.weatherform {
+    background-color: #FFF;
+    padding: 20px 20px 10px 20px;
+    margin-top: 30px;
+}
+
+.weatherform h1 {
+    margin: 0;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.form-control {
+    border-radius: 0;
+}
+
+#paw-results-row {
+    display: none;
+}
+
+.paw-form-element {
+    margin-top: 10px;
+}
